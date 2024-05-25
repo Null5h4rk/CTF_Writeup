@@ -1,10 +1,10 @@
 Challenge Name : CSK-05-2024: Introduction
-Points : 50 Pt.
+Points: 50 Pt.
 
 Description :
-                As a security researcher at CloudSEK, Your team has received an intelligence about SkyHigh Bank getting breached due to exposure of sensitive credentials. The HUMINT engagement done by Threat Intelligence team of CloudSEK revealed the IAV (Initial Attack Vector) to be the official mobile application associated with the SkyHigh Bank named SkyHigh Bank.
+                As a security researcher at CloudSEK, Your team has received intelligence about SkyHigh Bank getting breached due to exposure of sensitive credentials. The HUMINT engagement done by the Threat Intelligence team of CloudSEK revealed the IAV (Initial Attack Vector) to be the official mobile application associated with the SkyHigh Bank named SkyHigh Bank.
 
-                For your convience, The mobile application is already uploaded on BeVigil (bevigil.com) for analysis.
+                For your convenience, The mobile application is already uploaded on BeVigil (bevigil.com) for analysis.
 
                 Your task is to identify the exposed credentials that led to the data breach. The flag value is the username of the person whose credentials got compromised.
 

@@ -1,5 +1,6 @@
 **Challenge Name : CSK-05-2024: Introduction**
-Points: 50 Pt.
+
+**Points**: 50 Pt.
 
 **Description** :
                 As a security researcher at CloudSEK, Your team has received intelligence about SkyHigh Bank getting breached due to exposure of sensitive credentials. The HUMINT engagement done by the Threat Intelligence team of CloudSEK revealed the IAV (Initial Attack Vector) to be the official mobile application associated with the SkyHigh Bank named SkyHigh Bank.
